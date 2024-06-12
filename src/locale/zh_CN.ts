@@ -1,6 +1,6 @@
 const zhCN: Record<string, string> = {
   _webTitle: '发现导航',
-  _uncategorized: 'Not Categorized',
+  _uncategorized: 'Unclassified',
   _modifySuccess: '修改成功！',
   _copySuccess: '复制成功',
   _copyUrl: '复制链接',
