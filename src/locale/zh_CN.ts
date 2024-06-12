@@ -1,6 +1,6 @@
 const zhCN: Record<string, string> = {
   _webTitle: '发现导航',
-  _uncategorized: '未分类',
+  _uncategorized: 'Not Categorized',
   _modifySuccess: '修改成功！',
   _copySuccess: '复制成功',
   _copyUrl: '复制链接',
@@ -16,8 +16,8 @@ const zhCN: Record<string, string> = {
   _desc: '描述',
   _link: '链接',
   _current: '当前',
-  _empty: '对不起，没有找到您想要的结果~',
-  _goBack: '返回上一层',
+  _empty: 'Sorry, no results found for your query~',
+  _goBack: 'Go back to previous',
   _viewInfo: '查看信息',
   _syncData: '同步数据',
   _addData: '新增数据',
